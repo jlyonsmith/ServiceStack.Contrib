@@ -41,3 +41,4 @@ App_Data/
 *.ncrunch*
 
 .*crunch*.local.xml
+.DS_Store
